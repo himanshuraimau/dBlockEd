@@ -62,7 +62,7 @@ app.frame('/', (c) => {
       <Button value="apples">Apples</Button>,
       <Button value="oranges">Oranges</Button>,
       <Button value="bananas">Bananas</Button>,
-      status === 'response' && <Button.Reset>Reset</Button.Reset>,
+      <Button value="nano">Nano </Button>,
     ],
   })
 })
